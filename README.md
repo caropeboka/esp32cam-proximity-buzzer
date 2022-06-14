@@ -1,6 +1,6 @@
 # esp32cam-proximity-buzzer
 
-This is an ESP32CAM Project with proximity sensor, buzzer, ftdi, and blynk app for detecting illegal parking in the neighbourhood. For the schematic and board we use Eagle and for the 3d design we use Fusion 360 with acrylic material. We have made this project for Product Engineering Workshop Final Project Assignment.
+This is an ESP32CAM Project with proximity sensor, buzzer, ftdi, and blynk app for detecting illegal parking in the neighbourhood. For the schematic and board we use Eagle and for the 3D design we use Fusion 360 with acrylic material. We have made this project for Product Engineering Workshop Final Project Assignment.
 
 Schematic:
 
