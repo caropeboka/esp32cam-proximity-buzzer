@@ -14,6 +14,9 @@ Blynk:
 
 ![image](https://user-images.githubusercontent.com/97512275/173481098-fd7a72b0-7620-4bef-852c-62c622298747.png)
 
+3D Design:
+https://grabcad.com/library/1589503
+
 Implementation:
 
 ![image](https://user-images.githubusercontent.com/97512275/173481704-68318658-a194-4b48-a708-d403f8ded3e5.png)
